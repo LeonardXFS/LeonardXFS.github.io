@@ -33,9 +33,6 @@ main {
     padding-top: 2%;
     padding-bottom: 2%;
     background-image: linear-gradient(to right, white, grey, white);
-    /* background-color: rgb(148, 134, 134); */
-    /* background-image: url("../files/codes.webp"); */
-
 }
 
 .painel {
@@ -52,9 +49,7 @@ main {
     position: relative;
     outline-offset: -10px;
     padding-bottom: 30px;
-    outline-width: 2px;
-    outline-style: inset;
-    outline-color: cornflowerblue;
+
 }
 
 h2 {
@@ -77,9 +72,6 @@ footer h2 {
 .soueu img {
     height: 20rem;
     border-radius: 50%;
-    outline-offset: 1px;
-    outline-style: inset;
-    outline-color: aqua;
     margin-top: 5%;
 
 }
@@ -91,9 +83,6 @@ footer h2 {
     outline-offset: -5px;
     padding-bottom: 30px;
     padding-top: 30px;
-    outline-width: 2px;
-    outline-style: inset;
-    outline-color: cornflowerblue;
     margin-left: 5%;
     margin-right: 5%;
 
